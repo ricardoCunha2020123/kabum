@@ -1,0 +1,53 @@
+.titulo_tab{
+	font-size: 14px;
+	font-family: verdana;
+	align: center;
+	font-weight: bold;
+	font-color: white;
+	background-color: CornflowerBlue;
+	padding: 2px;
+}
+
+.tab{
+	border: solid black 1px;
+}
+
+.titulo {
+	font-size: 14px;
+	font-family: verdana;
+	text-align: center;
+	font-weight: bold;
+	width: 70%;
+	margin: 10px;
+}
+
+.button_blue{
+	margin: 10px;
+	font-color: white;
+	background-color: RoyalBlue;
+	width: 180px;
+}
+
+.button_green{
+	margin: 10px;
+	font-color: white;
+	background-color: MediumSeaGreen;
+	width: 180px;
+}
+
+.button_red{
+	margin: 10px;
+	font-color: white;
+	background-color: #EE0000;
+	width: 180px;
+}
+
+.center {
+  margin: auto;
+  width: 200px;
+  border: 3px solid darkblue;
+  padding: 10px;
+  align: center;
+  vertical-align: middle;
+  background-color: PaleGoldenrod;
+}

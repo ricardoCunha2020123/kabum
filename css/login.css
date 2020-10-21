@@ -1,0 +1,50 @@
+
+.center {
+  margin: auto;
+  width: 200px;
+  border: 3px solid darkblue;
+  padding: 10px;
+  align: center;
+  vertical-align: middle;
+  background-color: PaleGoldenrod;
+}
+
+input {
+	width: 200px;
+}
+
+body{
+	font-size: 12px;
+	font-family: verdana;
+}
+
+.titulo {
+	font-size: 14px;
+	font-family: verdana;
+	align: center;
+	font-weight: bold;
+}
+
+.button_blue{
+	margin: 10px;
+	font-color: white;
+	background-color: RoyalBlue;
+	width: 180px;
+}
+
+.button_green{
+	margin: 10px;
+	font-color: white;
+	background-color: MediumSeaGreen;
+	width: 180px;
+}
+
+.button_red{
+	margin: 10px;
+	font-color: white;
+	background-color: Red2;
+	width: 180px;
+}
+
+
+
