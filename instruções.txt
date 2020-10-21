@@ -1,0 +1,3 @@
+1 - o arquivo create_tables.sql faz a criação de todas as tabelas utilizadas.
+2 - o arquivo libs/conec.php precisa ser alterado para o seu banco de dados criado e a sua senha de acesso
+3 - index.php inicia a aplicação
